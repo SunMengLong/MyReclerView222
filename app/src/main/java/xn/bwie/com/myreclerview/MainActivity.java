@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
     private void initDate() {
         list.add("普通条目展示");
         list.add("多条目展示");
+        list.add("测试的数据");
     }
 
     public void enterActivity(Class c) {
